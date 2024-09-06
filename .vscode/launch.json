@@ -1,0 +1,43 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "MainApplication",
+            "request": "launch",
+            "mainClass": "com.appleaster.gui.MainApplication",
+            "projectName": "ip_7a74d312"
+        },
+        {
+            "type": "java",
+            "name": "Appleaster",
+            "request": "launch",
+            "mainClass": "com.appleaster.main.Appleaster",
+            "projectName": "ip_7a74d312"
+        },
+        {
+            "type": "java",
+            "name": "MainApplication(1)",
+            "request": "launch",
+            "mainClass": "com.appleaster.gui.MainApplication",
+            "projectName": "ip"
+        },
+        {
+            "type": "java",
+            "name": "Appleaster(1)",
+            "request": "launch",
+            "mainClass": "com.appleaster.main.Appleaster",
+            "projectName": "ip",
+            "vmArgs": "--module-path /Users/blackhole/Desktop/Code.nosync/ip/lib --add-modules javafx.controls,javafx.fxml"            
+        }
+    ]
+}

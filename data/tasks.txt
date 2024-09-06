@@ -1,2 +1,10 @@
 T | 1 | call mom
-T | 0 | do stuff
+T | 1 | do stuff
+D | 0 | Return library book | 2023-09-15 1400
+E | 0 | Book club meeting | 2023-09-20 1800 | 2023-09-20 2000
+T | 0 | Write book report
+D | 0 | Submit book review | 2023-09-25 2359
+E | 0 | Book signing | 2023-10-01 1400 | 2023-10-01 1600
+T | 0 | Buy groceries
+D | 0 | Pay bills | 2023-09-30 0900
+E | 0 | Family dinner | 2023-09-22 1900 | 2023-09-22 2100
